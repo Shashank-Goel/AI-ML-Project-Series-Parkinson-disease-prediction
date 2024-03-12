@@ -1,1 +1,3 @@
 # AI-ML-Project-Series-Parkinson-disease-prediction
+
+This project aims to develop a machine learning model to classify Parkinson's disease based on voice recordings. The dataset includes various voice features extracted from individuals with and without Parkinson's disease. The steps involve data preprocessing, including standardization and splitting into training and testing sets. Hyperparameter tuning is performed using grid search and cross-validation to optimize the SVM model's performance. Finally, the model's accuracy is evaluated on the test set. This project demonstrates the application of machine learning in diagnosing Parkinson's disease, offering potential insights for early detection and intervention.
